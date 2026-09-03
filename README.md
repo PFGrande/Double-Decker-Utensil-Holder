@@ -7,3 +7,4 @@ I wanted something that would fit just right in a small gap on my wall.
 Enjoy!
 (more detailed read me coming soon w/ all the measurements)
 
+![Double-Decker Image](double_decker_image.png)
